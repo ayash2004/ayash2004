@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Yash Agrawal  
 
-<!--
-**ayash2004/ayash2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Web Developer | JavaScript Enthusiast | React Learner**  
 
-Here are some ideas to get you started:
+💡 I’m passionate about building **scalable, user-friendly applications** and constantly improving my **frontend & full-stack skills**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 About Me  
+- 🌱 Currently learning **React & Appwrite**  
+- 💻 Exploring **Full-Stack Development**  
+- 🤝 Open to collaborate on **JavaScript, React & Web Development Projects**  
+- 🎯 Goal: Transition from **Technical Support** ➝ **Full-Time Developer**  
+
+---
+
+## 🛠 Tech Stack  
+
+**Frontend:**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+
+**Backend / DB:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+
+**Tools & Others:**  
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayash2004&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayash2004&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Connect with Me  
+
+- 📍 Mumbai, India  
+- 📧 [agrawalyash329@gmail.com](mailto:agrawalyash329@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+- 🌍 [Portfolio](https://your-portfolio-link.vercel.app)  
+
+---
+
+⭐️ From [Yash Agrawal](https://github.com/ayash2004)

@@ -1,16 +1,15 @@
 # 👋 Hi, I'm Yash Agrawal  
 
-🚀 **Aspiring Web Developer | JavaScript Enthusiast | React Learner**  
-
-💡 I’m passionate about building **scalable, user-friendly applications** and constantly improving my **frontend & full-stack skills**.  
+🌱 **Entry-level Web Developer** | Learning **React, Appwrite & Modern Web Technologies**  
+💡 Passionate about building **scalable, user-friendly applications** and growing into a **full-stack developer**.  
 
 ---
 
 ## 🔥 About Me  
 - 🌱 Currently learning **React & Appwrite**  
-- 💻 Exploring **Full-Stack Development**  
-- 🤝 Open to collaborate on **JavaScript, React & Web Development Projects**  
-- 🎯 Goal: Transition from **Technical Support** ➝ **Full-Time Developer**  
+- 💻 Exploring **Frontend & Full-Stack Development**  
+- 🤝 Open to collaborating on **JavaScript, React & Web Projects**  
+- 🎯 Goal: Start my career as a **Junior Web Developer / Software Developer**  
 
 ---
 

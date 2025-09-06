@@ -39,7 +39,7 @@
 ## 🌐 Connect with Me  
 
 - 📍 Mumbai, India  
-- 📧 [yasha9340@gmail.com](mailto:agrawalyash329@gmail.com)  
+- 📧 [agrwalyash329@gmail.com](mailto:agrawalyash329@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
 - 🌍 [Portfolio](https://your-portfolio-link.vercel.app)  
 

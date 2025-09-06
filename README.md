@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Yash Agrawal  
 
-🌱 **Entry-level Web Developer** | Learning **React, Appwrite & Modern Web Technologies**  
+🌱 **Entry-level Web Developer** | Learning **React,TypeScript, Appwrite & Modern Web Technologies**  
 💡 Passionate about building **scalable, user-friendly applications** and growing into a **full-stack developer**.  
 
 ---
 
 ## 🔥 About Me  
-- 🌱 Currently learning **React & Appwrite**  
+- 🌱 Currently learning **React & TypeScript**  
 - 💻 Exploring **Frontend & Full-Stack Development**  
 - 🤝 Open to collaborating on **JavaScript, React & Web Projects**  
 - 🎯 Goal: Start my career as a **Junior Web Developer / Software Developer**  
@@ -40,8 +40,8 @@
 
 - 📍 Mumbai, India  
 - 📧 [agrwalyash329@gmail.com](mailto:agrawalyash329@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- 🌍 [Portfolio](https://your-portfolio-link.vercel.app)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yash-agarwal20/)
+- 🌍 [Portfolio](https://portfolio-git-main-yash-agarwals-projects-5132f746.vercel.app/)  
 
 ---
 
